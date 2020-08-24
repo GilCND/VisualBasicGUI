@@ -3,7 +3,7 @@
 '------------------------------------------------------------------------------------------------
 'Program: Km Tracker
 'Date:06/12/2019
-'Autor: Felipe Souza Gil
+'Autor: Felipe SG
 'Program Details: Sales reps may claim their travel costs and have their KMs 
 'reimbursed by the company. The company pays .53 cents per KM And If the KMs 
 'travelled For a particular day Is over 300 KM, a flat daily rate Of $150 Is paid. 
@@ -15,7 +15,7 @@
 '------------------------------------------------------------------------------------------------
 ' Date              Programmer              Change
 '------------------------------------------------------------------------------------------------
-'06/12/2019         Felipe Souza Gil        Initial Version
+'06/12/2019         Felipe SG           Initial Version
 
 Public Class Form1
 
